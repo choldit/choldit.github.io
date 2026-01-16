@@ -15,7 +15,7 @@ I hold an MSc in Engineering Artificial Intelligence from Carnegie Mellon Univer
 My journey has taken me from software engineering in East Africa to advanced AI research at one of the world's leading institutions, driven by a commitment to creating technology that genuinely improves healthcare outcomes where it's needed most.
 
 ## Research Focus
-I specialize in understanding how different neural network architectures interpret medical data. My recent work explores **Architecture-Aware Explainability in ECG Analysis: A Case Study of Aortic Stenosis Detection with ResNet18, LSTM and ViT-MAE ECG** in ECG analysis—comparing how CNNs, LSTMs, and Transformers detect and interpret signals for conditions like aortic stenosis. This research goes beyond model performance to understand *why* models make certain predictions, which is essential for building AI that clinicians can trust at the bedside.
+I focus on understanding how different neural network architectures interpret medical data. My recent work explores **Architecture-Aware Explainability in ECG Analysis: A Case Study of Aortic Stenosis Detection with ResNet18, LSTM and ViT-MAE ECG** in ECG analysis—comparing how CNNs, LSTMs, and Transformers detect and interpret signals for conditions like aortic stenosis. This research goes beyond model performance to understand *why* models make certain predictions, which is essential for building AI that clinicians can trust at the bedside.
 
 Beyond cardiovascular AI, I've contributed to systematic reviews on rheumatic heart disease detection using machine learning and developed predictive systems for telecommunications regulation in South Sudan. What ties these projects together is a focus on **interpretability, real-world deployment challenges, and measurable social impact**.
 
@@ -25,7 +25,7 @@ Beyond cardiovascular AI, I've contributed to systematic reviews on rheumatic he
 - **AI Governance Applications**: Building machine learning systems for regulatory compliance and public sector decision-making
 
 ## From Research to Real-World Impact
-My work bridges academic research and practical implementation. As an AI Engineer Consultant with AfyaWave AI, I contributed to developing a multimodal clinical decision support system for prenatal care. This hands-on experience with clinical workflows, regulatory requirements, and deployment challenges complements my academic research, giving me a practical perspective on what it takes to build AI systems that actually improve patient care.
+My work bridges academic research and practical implementation. As an AI Engineer Consultant with AfyaWave AI, I contributed to developing a multimodal clinical decision support system for prenatal care. This hands-on experience with clinical workflows, regulatory requirements and deployment challenges complements my academic research, giving me a practical perspective on what it takes to build AI systems that actually improve patient care.
 
 ## Teaching and Mentorship
 I'm passionate about sharing knowledge and creating opportunities for others. As a former Teaching Assistant at Carnegie Mellon University Africa and an online tutor with Math Scout, I help students navigate IT governance, Python programming, and AI fundamentals. Teaching has taught me the importance of clear communication in making complex technical concepts accessible—a skill that's equally valuable when explaining AI systems to clinicians and stakeholders.
